@@ -1,0 +1,26 @@
+Question 1 
+Optimal Values :
+S1 51.2
+S2 64
+S3 0
+S4 64
+S5 80
+S6 100
+Iterations : 5
+
+Question 2
+S1->S4->S5->S6->S3
+
+Question 3
+Yes it is possible to change the reward function such that v* changes but the policy remains unchanged.
+One way to do this is to change the reward functions. While there are many ways to change the reward function,for the purposes of this demonstration the existing reward functions were simply doubled
+Optimal Values :
+S1 102.4
+S2 128
+S3 0
+S4 128
+S5 160
+S6 200
+Iterations : 5
+Optimal Policy:
+S1->S4->S5->S6->S3
